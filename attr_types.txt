@@ -1,0 +1,16 @@
+attrname\ttype
+K
+Na
+CL
+CP
+Endotoxin
+Anioingap
+PLA2
+SDH
+GLDH
+PCV
+Pulserate
+Fibrinogen
+Dimer
+FibPerDim
+Diagnosis
